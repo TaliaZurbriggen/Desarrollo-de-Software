@@ -1,0 +1,57 @@
+h1{
+    color:black;
+    background-color: #bd9ef9;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2{
+    background-color: #d7c2f2;
+    font-size: 30px;
+    padding: 5px 15px;
+
+}
+
+body{
+    margin: 20px;
+    border: solid #000 1px;
+    background-color: #fbedc5;
+}
+
+p{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+ul, ol {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 10px;
+    
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+img:hover{
+    border: solid, 2px, gray;
+}
+
+*{
+    font-family: arial;
+    font-size: 14px;
+    text-align: justify;
+}
+
+
+.seccion h2 {
+    margin-bottom: 20px;
+}
+
+strong{
+    font-family: Cedarville Cursive;
+}
